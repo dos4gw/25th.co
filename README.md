@@ -1,6 +1,6 @@
 # 25th.co
 
-Source for the public website of [The 25th Company](https://25th.co), a user experience and product design studio based in Melbourne, Australia.
+Source for the public website of [The 25th Company](https://25th.co), a user experience and product design studio based in Perth, Australia.
 
 It's a static site (plain HTML and CSS, no build step) served with GitHub Pages.
 

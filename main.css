@@ -91,15 +91,3 @@ li {
     text-align: left;
 }
 
-.news {
-    margin-bottom: 4em;
-}
-
-.newstext {
-    color:forestgreen;
-}
-
-.newstext a {
-    font-weight: bold;
-    color:forestgreen;
-}
